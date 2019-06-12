@@ -1,0 +1,22 @@
+{
+  "name": "product_landing_page",
+  "version": "0.0.1",
+  "description": "freeCodeCamp Responsive Web Design Projects - Build a Product Landing Page",
+  "author": "CharmedSatyr <z@charmed.tech>",
+  "license": "GPL-3.0-or-later",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/charmedsatyr-freecodecamp/product_landing_page#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charmedsatyr-freecodecamp/product_landing_page.git"
+  },
+  "keywords": [
+    "freeCodeCamp"
+  ],
+  "bugs": {
+    "url": "https://github.com/charmedsatyr-freecodecamp/product_landing_page/issues"
+  }
+}
