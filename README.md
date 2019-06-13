@@ -2,13 +2,9 @@
 
 ## A Responsive Web Design Project for freeCodeCamp
 
----
-
 ### Author: [CharmedSatyr](https://github.com/CharmedSatyr)
 
-**Date Completed:** June 13, 2019
-
----
+### Date Completed: June 13, 2019
 
 ### Links and Resources
 
