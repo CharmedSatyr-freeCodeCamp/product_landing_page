@@ -112,3 +112,8 @@ main > form {
 footer {
   justify-content: center;
 }
+
+footer > a {
+  color: #ffffff;
+  text-decoration: none;
+}
