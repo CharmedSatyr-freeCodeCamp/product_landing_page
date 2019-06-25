@@ -11,7 +11,6 @@
 * [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 * [GitHub Repository](https://github.com/charmedsatyr-freecodecamp/product_landing_page)
 * [GitHub Pages](https://charmedsatyr-freecodecamp.github.io/product_landing_page/)
-* [![Greenkeeper badge](https://badges.greenkeeper.io/charmedsatyr-freecodecamp/product_landing_page.svg)](https://greenkeeper.io/)
 
 ---
 
